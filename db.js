@@ -6,7 +6,7 @@ const costumers = [{
 }];
 
 function selectCustomers(){
-    return costumers;
+    return costuclsmers;
 }
 
 function selectCustomer(id){
